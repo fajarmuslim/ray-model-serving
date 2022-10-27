@@ -1,0 +1,6 @@
+ray==2.0.0
+uvicorn==0.16.0
+scikit-learn
+grpcio
+joblib
+request
